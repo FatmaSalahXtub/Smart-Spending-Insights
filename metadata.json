@@ -1,8 +1,0 @@
-{
-  "name": "Masroufi — مصروفي",
-  "description": "Expense tracker for Tunisian university students (Arabic / Français / English).",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
